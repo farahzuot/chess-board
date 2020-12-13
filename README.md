@@ -4,4 +4,5 @@ Chess board is an 8 by 8 grid of alternating black and white squares. The queens
 
 
 PR: https://github.com/farahzuot/chess-board/pull/1
+</br>
 deployed: https://farahzuot.github.io/chess-board/
